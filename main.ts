@@ -13,5 +13,5 @@ const answers : {
 );
 
 const words = answers.sentence.trim().split(" ");
-console.log(words)
-console.log(`Your Sentence Word Count is ${words.length}`)
+console.log(words);
+console.log(`Your Sentence Word Count is ${words.length}`);
